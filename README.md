@@ -1,5 +1,4 @@
-# PeopleAnalytics
-People Analytics Portfolio
+# People Analytics Portfolio
 
 
 [**Predicting Manager Performance:**](https://github.com/NelsonSpencer/PeopleAnalytics/blob/master/Predicting_Manager_Performance.ipynb)
